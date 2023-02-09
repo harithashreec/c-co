@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main()
+{   char z;
+    cout<<"letters";
+    cin>>z;
+    if(z=(z=='a'||z=='e'||z=='i'||z=='o'||z=='u'||z=='A'||z=='e'||z=='I'||z=='O'||z=='U'))
+    cout<<"vowels";
+    else
+    cout<<"consonants";
+    return 0;
+}
