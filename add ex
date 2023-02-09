@@ -1,0 +1,12 @@
+
+#include<iostream>
+Using namespace std;
+Int main()
+{
+Int a,b,c;
+a=75;
+b=76;
+c=a+b;
+cout<<c<<endl;
+return 0;
+}
